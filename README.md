@@ -317,7 +317,7 @@ La experiencia de desarrollo destacó la importancia del diseño cuidadoso de pr
 
 ---
 
-**Repositorio:** [https://github.com/AlexStrDev/Entrega2Quispe](https://github.com/AlexStrDev/Entrega2Quispe)  
+**Repositorio:** [https://github.com/AlexStrDev/EntregaFinalAlexQuispe](https://github.com/AlexStrDev/EntregaFinalAlexQuispe)  
 **Autor:** Alex Quispe  
 **Fecha:** Agosto 2025  
 **Curso:** Inteligencia Artificial: Generación de Prompts (Diplomatura)  
